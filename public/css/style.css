@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+}
+main {
+    background-image: url('/img/building-2604196_1920.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center 0px;
+    padding-bottom: 70px;
+    height: 630px;
+}
+
+.bg-beige{
+    background-color: #c8c7b9;
+}
+
+.sinPadding{
+    padding: 0;
+}
+
+.img-cafeCard{
+    width: 100%; height: 40vh; object-fit: cover;
+    margin: 0;
+}
+
+
+/* SECTION */ 
+
+.card{
+    width: 18rem
+}
+
+.card-body{
+    margin:15px
+}
+
+.row-card{
+display: flex;
+justify-content: space-between;
+
+
+}
+
+.nanan{
+    background-image: url('img/Selección-de-granos-de-café.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.h2-container{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* Carousel */ 
+
+.container-c-carousel{
+    align-items: center;
+}
